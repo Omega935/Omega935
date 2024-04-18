@@ -1,12 +1,12 @@
-# ¡Hola! 👋 Soy [Omega935](https://github.com/Omega935) 
+# ¡Hello! 👋 I'm [Ronaldo Valderrama](https://github.com/Omega935) 
 
 ## About Me
 <!--las ```` sirve para generar un espacio de codigo despues de estas se coloca el tipo de codigo que se va poner dentro en este caso js-->
 ```javascript
 const about = {
 
-  about = "¡Hola! Soy Omega935, un apasionado desarrollador con experiencia en varios lenguajes de programación y tecnologías.
-  Me encanta construir cosas nuevas y aprender constantemente."
+  about = "Hello! I'm Ronaldo, a passionate developer with experience in various programming languages and technologies.
+    I love building new things and constantly learning."
 }
 ```
 
