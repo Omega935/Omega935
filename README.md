@@ -5,7 +5,7 @@
 ```javascript
 const about = {
 
-  about = "¡Hola! Soy Omega935, un apasionado desarrollador de software con experiencia en varios lenguajes de programación y tecnologías.
+  about = "¡Hola! Soy Omega935, un apasionado desarrollador con experiencia en varios lenguajes de programación y tecnologías.
   Me encanta construir cosas nuevas y aprender constantemente."
 }
 ```
